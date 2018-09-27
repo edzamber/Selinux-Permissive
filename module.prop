@@ -1,0 +1,7 @@
+id=Selinux_Permissive
+name=Selinux Permissive 
+version=v1.0
+versionCode=1
+author=Edzamber 
+description=Force kernel to permissive 
+minMagisk=17000
