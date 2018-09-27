@@ -1,4 +1,4 @@
 # Selinux Permissive by @Edzamber
 
 
-This is a simple module to force Kernel to permissive on postdatafs mode.
+This is a simple Magisk module to force Kernel to permissive on postdatafs mode.
